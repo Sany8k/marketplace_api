@@ -62,7 +62,7 @@ docker-compose up -d
 Clone the repository:
 
 ```bash
-git clone https://github.com/WhiteP8wder8/marketplace_api.git
+git clone https://github.com/Sany8k/marketplace_api.git
 cd marketplace_api
 ```
 Install dependencies:
